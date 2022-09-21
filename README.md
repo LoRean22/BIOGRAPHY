@@ -1,4 +1,5 @@
 CPP BLOCK:
+
 [Курсовой проект: игра жизнь](https://replit.com/@DmitriyLoginov1/homework-1131#main.cpp)
 
 [Счётчик](https://github.com/LoRean22/counter)
